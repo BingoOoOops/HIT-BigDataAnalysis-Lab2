@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="yarn">
+    <CLASSES>
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/yarn" />
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/common" />
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/hdfs" />
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/mapreduce" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/common/jdiff" />
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/hdfs/jdiff" />
+      <root url="file:///usr/local/hadoop-3.3.0/share/hadoop/mapreduce/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/local/hadoop-3.3.0/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file:///usr/local/hadoop-3.3.0/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file:///usr/local/hadoop-3.3.0/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file:///usr/local/hadoop-3.3.0/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
